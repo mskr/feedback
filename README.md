@@ -13,3 +13,9 @@ The feedback starts with easy ways to find a solution to a problem statement. It
 - Chat with other users
 - Identify code location
 - Open pull request
+
+## Starter
+
+Don't try to build a chatbot. Use something:
+
+https://github.com/RasaHQ/rasa-demo
