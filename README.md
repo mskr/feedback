@@ -19,3 +19,7 @@ The feedback starts with easy ways to find a solution to a problem statement. It
 Don't try to build a chatbot. Use something:
 
 https://github.com/RasaHQ/rasa-demo
+
+## My other projects
+
+https://github.com/mskr/low-code-digitalization
